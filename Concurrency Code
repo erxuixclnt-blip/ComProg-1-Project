@@ -45,6 +45,6 @@ public class Main {
         System.out.println(t1.getName() + " is " + t1.getState());
         System.out.println(t2.getName() + " is " + t2.getState());
 
-        input.close()
+        input.close();
     }
 }
